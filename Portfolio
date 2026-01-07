@@ -1,0 +1,86 @@
+# 👋 Hi, I'm Pawan Kalyan Pemma
+
+🚀 DevOps Engineer | AWS Certified Solutions Architect – Associate  
+📍 Tirupati, India  
+
+---
+
+## 🧑‍💻 About Me
+
+I am a motivated and results-driven **DevOps Engineer** with hands-on experience in:
+
+- Cloud Infrastructure (AWS)
+- CI/CD Pipeline Automation
+- Containerization & Orchestration
+- Infrastructure as Code
+- Monitoring & Observability
+
+I enjoy building scalable, automated, and cost-optimized cloud solutions.
+
+---
+
+## 🛠️ Skills & Tools
+
+### ☁️ Cloud
+- AWS (EC2, S3, IAM, VPC, Lambda)
+
+### 🔄 CI/CD
+- Git
+- Jenkins
+
+### 📦 Containers & Orchestration
+- Docker
+- Kubernetes
+
+### 🏗️ Infrastructure as Code
+- Terraform
+- Ansible
+
+### 📊 Monitoring
+- Prometheus
+- Grafana
+
+### 🧑‍💻 Programming
+- Python
+- Linux (Basics)
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 AWS Cost Optimization using Lambda Automation
+**Tech Stack:** AWS Lambda, EC2, EBS, Python  
+
+- Automated identification of unused EBS snapshots  
+- Reduced AWS storage cost by **30%**
+- Eliminated manual snapshot audits  
+
+🔗 Repo:  
+👉 https://github.com/pawankalyan11/aws-cost-optimization-lambda
+
+---
+
+### 🔹 Healthcare DevOps Automation Project
+**Tech Stack:** Terraform, Kubernetes, Docker, Jenkins, Prometheus, Grafana  
+
+- Provisioned AWS infrastructure using Terraform  
+- Deployed containerized apps on Kubernetes  
+- Implemented CI/CD pipelines  
+- Enabled real-time monitoring and alerting  
+
+🔗 Repo:  
+👉 https://github.com/pawankalyan11/healthcare-devops-project
+
+---
+
+## 🎓 Certifications
+
+- ✅ AWS Certified Solutions Architect – Associate
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: pawankalyan2029@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/pawan-kalyan-35082925b  
+- 🧑‍💻 GitHub: https://github.com/pawankalyan11
